@@ -30,14 +30,6 @@ body {
   
 }
 
-.attribution {
-  font-size: 11px;
-  text-align: center;
-}
-.attribution a {
-  color: hsl(228, 45%, 44%);
-}
-
 .card {
   display: flex;
   flex-direction: column;
@@ -53,7 +45,7 @@ body {
 }
 
 img {
-  display:block;
+  display: block;
   max-width: 102%;
   height: auto;
   border-radius: 0.8rem;
